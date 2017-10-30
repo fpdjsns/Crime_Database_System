@@ -8,7 +8,8 @@ Crime Statistics System with C#, SQL
 ex) 서버: **localhost**, DB 이름: **crimedata**, ID = **root**, PW = **admin**<br>
 private String connStr = "Server=**localhost**;Database=**crimedata**;Uid=**root**;Pwd=**admin**;";<br>
 <br>
-쿼리 예시는 **\SQL queries Example.hwp**에 있습니다.
+쿼리 예시는 **\SQL queries Example.hwp**에 있습니다.<br>
+**data\스키마 테이블.hwp**, **data\데이터 표정리.hwp** 를 통해 데이터에 대한 더 상세한 정보를 알 수 있습니다.<br>
 
 ## ER Diagram<br>
 ![ex_screenshot](./img/ER_Diagram.png)<br>
