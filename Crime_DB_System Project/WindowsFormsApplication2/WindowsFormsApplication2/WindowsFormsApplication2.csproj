@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9237898E-8E42-4A37-BF1D-C50E54C54773}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication2</RootNamespace>
+    <AssemblyName>WindowsFormsApplication2</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="인천광역시.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="인천광역시.Designer.cs">
+      <DependentUpon>인천광역시.cs</DependentUpon>
+    </Compile>
+    <Compile Include="monitor_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="monitor_list.Designer.cs">
+      <DependentUpon>monitor_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="경기도.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="경기도.Designer.cs">
+      <DependentUpon>경기도.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="경상남도.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="경상남도.Designer.cs">
+      <DependentUpon>경상남도.cs</DependentUpon>
+    </Compile>
+    <Compile Include="경상북도.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="경상북도.Designer.cs">
+      <DependentUpon>경상북도.cs</DependentUpon>
+    </Compile>
+    <Compile Include="광주광역시.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="광주광역시.Designer.cs">
+      <DependentUpon>광주광역시.cs</DependentUpon>
+    </Compile>
+    <Compile Include="대구광역시.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="대구광역시.Designer.cs">
+      <DependentUpon>대구광역시.cs</DependentUpon>
+    </Compile>
+    <Compile Include="대전광역시.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="대전광역시.Designer.cs">
+      <DependentUpon>대전광역시.cs</DependentUpon>
+    </Compile>
+    <Compile Include="부산광역시.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="부산광역시.Designer.cs">
+      <DependentUpon>부산광역시.cs</DependentUpon>
+    </Compile>
+    <Compile Include="서울특별시.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="서울특별시.Designer.cs">
+      <DependentUpon>서울특별시.cs</DependentUpon>
+    </Compile>
+    <Compile Include="강원도.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="강원도.Designer.cs">
+      <DependentUpon>강원도.cs</DependentUpon>
+    </Compile>
+    <Compile Include="울산광역시.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="울산광역시.Designer.cs">
+      <DependentUpon>울산광역시.cs</DependentUpon>
+    </Compile>
+    <Compile Include="전라남도.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="전라남도.Designer.cs">
+      <DependentUpon>전라남도.cs</DependentUpon>
+    </Compile>
+    <Compile Include="전라북도.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="전라북도.Designer.cs">
+      <DependentUpon>전라북도.cs</DependentUpon>
+    </Compile>
+    <Compile Include="제주도.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="제주도.Designer.cs">
+      <DependentUpon>제주도.cs</DependentUpon>
+    </Compile>
+    <Compile Include="충청남도.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="충청남도.Designer.cs">
+      <DependentUpon>충청남도.cs</DependentUpon>
+    </Compile>
+    <Compile Include="전국지도.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="전국지도.Designer.cs">
+      <DependentUpon>전국지도.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="충청북도.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="충청북도.Designer.cs">
+      <DependentUpon>충청북도.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="monitor_list.resx">
+      <DependentUpon>monitor_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="강원도.resx">
+      <DependentUpon>강원도.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="경기도.resx">
+      <DependentUpon>경기도.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="경상남도.resx">
+      <DependentUpon>경상남도.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="경상북도.resx">
+      <DependentUpon>경상북도.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="광주광역시.resx">
+      <DependentUpon>광주광역시.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="대구광역시.resx">
+      <DependentUpon>대구광역시.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="대전광역시.resx">
+      <DependentUpon>대전광역시.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="부산광역시.resx">
+      <DependentUpon>부산광역시.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="서울특별시.resx">
+      <DependentUpon>서울특별시.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="울산광역시.resx">
+      <DependentUpon>울산광역시.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="인천광역시.resx">
+      <DependentUpon>인천광역시.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="전라남도.resx">
+      <DependentUpon>전라남도.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="전라북도.resx">
+      <DependentUpon>전라북도.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="제주도.resx">
+      <DependentUpon>제주도.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="충청남도.resx">
+      <DependentUpon>충청남도.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="전국지도.resx">
+      <DependentUpon>전국지도.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="충청북도.resx">
+      <DependentUpon>충청북도.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\강원도.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\전국지도.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\경상남도.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\경상북도.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\광주광역시.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\대구광역시.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\대전.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\부산광역시.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\서울특별시.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\전라남도.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\전라북도.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\제주도.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\충청남도.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\충청북도.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\울산광역시.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\경기도.JPG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

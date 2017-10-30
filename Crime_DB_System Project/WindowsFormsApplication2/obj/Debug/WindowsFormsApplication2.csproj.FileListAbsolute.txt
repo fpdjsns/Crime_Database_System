@@ -1,0 +1,307 @@
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.강원도.resources
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경상남도.resources
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경상북도.resources
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.광주광역시.resources
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.대구광역시.resources
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.대전광역시.resources
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.부산광역시.resources
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.울산광역시.resources
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전라남도.resources
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전라북도.resources
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.제주도.resources
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.충청남도.resources
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전국지도.resources
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.충청북도.resources
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.서울특별시.resources
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경기도.resources
+C:\Users\Nestnet6\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.monitor_list.resources
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.monitor_list.resources
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.강원도.resources
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경기도.resources
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경상남도.resources
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경상북도.resources
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.광주광역시.resources
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.대구광역시.resources
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.대전광역시.resources
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.부산광역시.resources
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.서울특별시.resources
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.울산광역시.resources
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전라남도.resources
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전라북도.resources
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.제주도.resources
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.충청남도.resources
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전국지도.resources
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.충청북도.resources
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.인천광역시.resources
+C:\Users\ByeongJin\Downloads\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MySql.Data.dll
+C:\Users\ByeongJin\Desktop\새 폴더 (2)\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\ByeongJin\Desktop\새 폴더 (2)\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\ByeongJin\Desktop\새 폴더 (2)\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MySql.Data.dll
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.monitor_list.resources
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.강원도.resources
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경기도.resources
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경상남도.resources
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경상북도.resources
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.광주광역시.resources
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.대구광역시.resources
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.대전광역시.resources
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.부산광역시.resources
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.서울특별시.resources
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.울산광역시.resources
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.인천광역시.resources
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전라남도.resources
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전라북도.resources
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.제주도.resources
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.충청남도.resources
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전국지도.resources
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.충청북도.resources
+C:\Users\ByeongJin\Desktop\디비설계 프로젝트\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MySql.Data.dll
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.monitor_list.resources
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.강원도.resources
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경기도.resources
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경상남도.resources
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경상북도.resources
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.광주광역시.resources
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.대구광역시.resources
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.대전광역시.resources
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.부산광역시.resources
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.서울특별시.resources
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.울산광역시.resources
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.인천광역시.resources
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전라남도.resources
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전라북도.resources
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.제주도.resources
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.충청남도.resources
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전국지도.resources
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.충청북도.resources
+C:\Users\Nestnet\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.monitor_list.resources
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.강원도.resources
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경기도.resources
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경상남도.resources
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경상북도.resources
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.광주광역시.resources
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.대구광역시.resources
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.대전광역시.resources
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.부산광역시.resources
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.서울특별시.resources
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.울산광역시.resources
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.인천광역시.resources
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전라남도.resources
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전라북도.resources
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.제주도.resources
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.충청남도.resources
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전국지도.resources
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.충청북도.resources
+C:\Users\yunhu\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\bin\Debug\MySql.Data.dll
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.monitor_list.resources
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.강원도.resources
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경기도.resources
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경상남도.resources
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경상북도.resources
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.광주광역시.resources
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.대구광역시.resources
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.대전광역시.resources
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.부산광역시.resources
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.서울특별시.resources
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.울산광역시.resources
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.인천광역시.resources
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전라남도.resources
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전라북도.resources
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.제주도.resources
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.충청남도.resources
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전국지도.resources
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.충청북도.resources
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\ByeongJin\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\bin\Debug\MySql.Data.dll
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.monitor_list.resources
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.강원도.resources
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경기도.resources
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경상남도.resources
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경상북도.resources
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.광주광역시.resources
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.대구광역시.resources
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.대전광역시.resources
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.부산광역시.resources
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.서울특별시.resources
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.울산광역시.resources
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.인천광역시.resources
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전라남도.resources
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전라북도.resources
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.제주도.resources
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.충청남도.resources
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전국지도.resources
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.충청북도.resources
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Nestnet\Desktop\바뀐거\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\bin\Debug\MySql.Data.dll
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.monitor_list.resources
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.강원도.resources
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경기도.resources
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경상남도.resources
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경상북도.resources
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.광주광역시.resources
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.대구광역시.resources
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.대전광역시.resources
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.부산광역시.resources
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.서울특별시.resources
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.울산광역시.resources
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.인천광역시.resources
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전라남도.resources
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전라북도.resources
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.제주도.resources
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.충청남도.resources
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전국지도.resources
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.충청북도.resources
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Yim\Desktop\병진_~1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\bin\Debug\MySql.Data.dll
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.monitor_list.resources
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.강원도.resources
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경기도.resources
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경상남도.resources
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경상북도.resources
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.광주광역시.resources
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.대구광역시.resources
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.대전광역시.resources
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.부산광역시.resources
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.서울특별시.resources
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.울산광역시.resources
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.인천광역시.resources
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전라남도.resources
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전라북도.resources
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.제주도.resources
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.충청남도.resources
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전국지도.resources
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.충청북도.resources
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Yim\Desktop\병진+현수+유진 통합 (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\bin\Debug\MySql.Data.dll
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.monitor_list.resources
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.강원도.resources
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경기도.resources
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경상남도.resources
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경상북도.resources
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.광주광역시.resources
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.대구광역시.resources
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.대전광역시.resources
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.부산광역시.resources
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.서울특별시.resources
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.울산광역시.resources
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.인천광역시.resources
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전라남도.resources
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전라북도.resources
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.제주도.resources
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.충청남도.resources
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전국지도.resources
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.충청북도.resources
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\ByeongJin\Desktop\현수+유진 통합(최종)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.monitor_list.resources
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.강원도.resources
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경기도.resources
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경상남도.resources
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.경상북도.resources
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.광주광역시.resources
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.대구광역시.resources
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.대전광역시.resources
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.부산광역시.resources
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.서울특별시.resources
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.울산광역시.resources
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.인천광역시.resources
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전라남도.resources
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전라북도.resources
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.제주도.resources
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.충청남도.resources
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.전국지도.resources
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.충청북도.resources
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Nestnet\Desktop\현수+유진 통합(최종1)\WindowsFormsApplication2\bin\Debug\MySql.Data.dll
