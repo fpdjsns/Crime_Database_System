@@ -12,7 +12,7 @@ private String connStr = "Server=**localhost**;Database=**crimedata**;Uid=**root
 
 ## ER Diagram<br>
 ![ex_screenshot](./img/ER_Diagram.png)<br>
-img 폴더의 ER_Diagram.png로 크게 확인할 수 있습니다.
+img\ER_Diagram.png로 크게 확인할 수 있습니다.
 
 ## Table
 이름 | 설명
@@ -31,4 +31,4 @@ human<br> | 사람 정보를 가지고 있음
 
 ## Mapping Table<br>
 ![ex_screenshot](./img/Mapping_Table.png)<br>
-img 폴더의 Mapping_Table.png로 크게 확인할 수 있습니다.
+img\Mapping_Table.png에서 크게 확인할 수 있습니다.
